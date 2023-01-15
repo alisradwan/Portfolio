@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.e5f325f3.css",
+    "main.js": "/Portfolio/static/js/main.594ced6a.js",
+    "static/media/Covid-App.png": "/Portfolio/static/media/Covid-App.83d828d857fab5bfa8fd.png",
+    "static/media/Ali_Radwan.png": "/Portfolio/static/media/Ali_Radwan.d4463e9479023818d0a9.png",
+    "static/media/Thrive2Survive.png": "/Portfolio/static/media/Thrive2Survive.32296a3e7247650a808d.png",
+    "static/media/Weather-Dashboard.png": "/Portfolio/static/media/Weather-Dashboard.00613229d4407ed6cc20.png",
+    "static/media/Zero-2-Rusme.png": "/Portfolio/static/media/Zero-2-Rusme.8fdf1e14022cf69c6002.png",
+    "static/media/work-day-schedule.png": "/Portfolio/static/media/work-day-schedule.841fb47d442ef9ccca3a.png",
+    "static/media/Password-Generator.png": "/Portfolio/static/media/Password-Generator.76efdac61cf49621c809.png",
+    "index.html": "/Portfolio/index.html",
+    "main.e5f325f3.css.map": "/Portfolio/static/css/main.e5f325f3.css.map",
+    "main.594ced6a.js.map": "/Portfolio/static/js/main.594ced6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5f325f3.css",
+    "static/js/main.594ced6a.js"
+  ]
+}
