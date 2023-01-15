@@ -1,38 +1,108 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+main {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  flex: 1 0 auto;
+  background-color: #f9efd8;
+  font-family: "Lato", sans-serif;
+  min-height: 90vh;
+}
+.row > div[class*="col-"] {
+  display: flex;
+  flex: 1 0 auto;
+}
+.copyright {
+  margin: auto;
+}
+.terminal {
+  background-color: #404040;
+  height: 100vh;
 }
 
-.App-link {
-  color: #61dafb;
+/* Start Text Styles */
+a {
+  color: #5486c0;
+}
+a:hover,
+.form-message {
+  color: #dc5a26;
+  text-decoration: none;
+}
+h1,
+h3,
+h4 {
+  font-family: "Roboto Mono", monospace;
+}
+h3,
+h4 {
+  color: #dc5a26;
+  padding-bottom: 16px;
+}
+ul.no-bullets {
+  list-style-type: none;
+}
+@media only screen and (max-width: 600px) {
+  .terminal h1 {
+    font-size: 8vw;
+  }
+}
+/* End Text Styles */
+
+/* Start Jumbotron Styles */
+.jumbotron {
+  background-color: #7d8f5c;
+  /* background-color: #78909c; */
+  color: #ffffff;
+}
+.jumbotron .col {
+  margin: auto;
+}
+.jumbotron h1,
+h2 {
+  text-align: center;
+}
+/* End Jumbotron Styles */
+
+/* Nav Styles */
+.navbar-brand {
+  font-family: "Roboto Mono", monospace;
+  padding-top: 0px;
+}
+/* End Nav Styles */
+
+/* Button Styles */
+.btn {
+  background-color: #e0a62d;
+  border: 3px solid #e0a62d;
+}
+.btn:hover,
+.btn:active {
+  background-color: #dc5a26;
+  border: 3px solid #dc5a26;
+}
+/* End Button Styles */
+
+/* Card Animation Styles */
+.card {
+  border-radius: 4px;
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.08), 0 0 6px rgba(0, 0, 0, 0.05);
+  transition: 0.3s transform cubic-bezier(0.155, 1.105, 0.295, 1.2),
+    0.3s box-shadow,
+    0.3s -webkit-transform cubic-bezier(0.155, 1.105, 0.295, 1.12);
+}
+.projects .card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12), 0 4px 8px rgba(0, 0, 0, 0.06);
+}
+/* End Card Animation Styles */
+
+.iconss {
+  color: #000000;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.resumeContainer {
+  margin: 20px;
+}
+
+.resumeCard {
+  box-shadow: 5px 5px 15px;
 }
