@@ -47,8 +47,8 @@ function About() {
             loyalty to the companies.
           </p>
           <p>
-            When I'm not in front of a screen, you might find me eating, making
-            out, or spending time with friends and family.
+            When I'm not in front of a screen, you might find me eating,
+            Watching soccer, or spending time with friends and family.
           </p>
         </Container>
       </Container>
