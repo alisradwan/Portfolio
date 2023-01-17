@@ -33,7 +33,7 @@ function About() {
                   Hello, World!
                 </h1>
                 <p className="text-light text-center text-md-left h4">
-                  I'm Ali Radwan, a full-stack developer based in Vancouver, Wa.
+                  I'm Ali Radwan, A Full-Stack Developer based in Vancouver, Wa.
                 </p>
               </Typist>
             </Col>
