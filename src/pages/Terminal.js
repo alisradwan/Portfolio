@@ -33,6 +33,15 @@ function Terminal(props) {
             <p>
               <span>&#x203A;</span>
             </p>
+            <p>
+              <span>&#x203A;</span>
+            </p>
+            <p>
+              <span>&#x203A;</span>
+            </p>
+            <p>
+              <span>&#x203A;</span>
+            </p>
             <Typist.Delay ms={150}></Typist.Delay>
             <p>
               <span>&#x203A;</span>

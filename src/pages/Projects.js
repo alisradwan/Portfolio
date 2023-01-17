@@ -78,7 +78,7 @@ function Projects() {
         </Container>
       </Jumbotron>
 
-      <Container className="p-3 ">
+      <Container className="p-3">
         <Row>
           {projects.map((project) => {
             return (
