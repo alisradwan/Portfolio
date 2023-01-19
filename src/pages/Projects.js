@@ -22,6 +22,7 @@ function Projects() {
     {
       title: "Thrive2Survive",
       description: "A Donation App from homeless People",
+      Tools: "React, Bootstrap, JavaScript, HTML, CSS, GoogleFonts",
       key: "Thrive2Survive",
       imageSrc: Thrive2Survive,
       repository: "https://github.com/alisradwan/Thrive2Survive",
@@ -30,6 +31,8 @@ function Projects() {
     {
       title: "Zero-2-Resume",
       description: "A full-stack app for building a Resume",
+      Tools:
+        "HTML, CSS, JavaScript, Bootstrap, GoogleFonts, Photoshop, bulma, Express",
       key: "Zero-2-Resume",
       imageSrc: Zero2Rusme,
       repository: "https://github.com/AramA89/Zero-2-Resume",
@@ -38,6 +41,7 @@ function Projects() {
     {
       title: "COVID-19 APP",
       description: "A frontend app for cases in US centers",
+      Tools: "HTML, CSS, Bootstrap, JavaScript, API",
       key: "covid-datahub",
       imageSrc: CovidApp,
       repository: "https://github.com/alisradwan/COVID-APP",
@@ -46,6 +50,8 @@ function Projects() {
     {
       title: "Weather Dashboard",
       description: "A basic Weather Dashboard app for checking the weather",
+      Tools:
+        "HTML, CSS, JavaScript, jQuery, API, Bootstrap, Font Awesome, Photoshop",
       key: "Weather-Dashboardr",
       imageSrc: WeatherDashboard,
       repository: "https://github.com/alisradwan/Weather-Dashboard",
@@ -54,6 +60,8 @@ function Projects() {
     {
       title: "Work day schedule",
       description: "A Work day schedule app ",
+      Tools:
+        "HTML, CSS, JavaScript, jQuery, Bootstrap, Font Awesome, Photoshop",
       key: "Work-day-schedule",
       imageSrc: Workdayscheduler,
       repository: "https://github.com/alisradwan/Work-day-scheduler",
@@ -62,6 +70,7 @@ function Projects() {
     {
       title: "Password Generator",
       description: "A Password Generator to Create a Quick password for you",
+      Tools: "HTML, CSS, JavaScript",
       key: "Password-Generator",
       imageSrc: PasswordGenerator,
       repository: "https://github.com/alisradwan/Password-Generator",

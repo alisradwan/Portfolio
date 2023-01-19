@@ -45,14 +45,14 @@ function About() {
         <Container className="p-5">
           <h3>About Me</h3>
           <p className="text-darkblue">
-            I am a student at UCLA Extension studying Web Development and
-            Coding.
-          </p>
-          <p className="text-darkblue">
-            While in school I also work part time at Metro by T Mobile as a
-            Sales Representative. My resume provides context to my ability to
-            stay at one profession for a long period of time, demonstrating my
-            loyalty to the companies.
+            Front and back-end web developer with experience in both mobile apps
+            and website design. I have earned a full stack web development
+            certificate from UCLA coding boot-camp. Critical thinking and
+            creative problem solving skills allow me to build a website or app
+            from the ground up - from concept, layout and programming to a
+            thriving web presence. Strengths include compliance with deadlines,
+            perfectionism, flexibility, and ability to communicate fluently in
+            both Arabic and English.
           </p>
           <p className="text-darkblue">
             When I'm not in front of a screen, you might find me eating,

@@ -22,7 +22,7 @@ function Resume() {
 
       <Container className="py-5 d-flex flex-column flex-md-row justify-content-center align-items-center">
         <Button
-          href="https://drive.google.com/file/d/1V7umPfWPF1jyZ1J0V32tYrjKvzOQgv6t/view?usp=sharing"
+          href="https://docs.google.com/document/d/e/2PACX-1vTt6YKWn4AIz3M4XknzKe2N-XYnEzFHPxnYLvvtbFKut-Mt3qA1q7ai56JCCjonRkcKCutzmC37MdkW/pub"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -41,7 +41,7 @@ function Resume() {
                 <li>CSS</li>
                 <li>Responsive Design</li>
                 <li>React</li>
-                <li>Bootstrap, Materialize, UIKit</li>
+                <li>Bootstrap, Materialize, UIKit, Bulma</li>
                 <li>jQuery</li>
               </ul>
             </Card.Body>
